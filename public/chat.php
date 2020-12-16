@@ -1,1 +1,1 @@
-<?php require_once("chat.html")?>
+<?php require_once("chat.html") ?>
